@@ -8,7 +8,7 @@ Project Samarth -> it is a Challenge Question by Bharat Digital Fellowship - 202
 
 
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone (https://github.com/Kamal-kishor1/agro_bot.git)
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
